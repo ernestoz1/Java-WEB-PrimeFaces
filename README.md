@@ -2,8 +2,11 @@
 
 # Tecnologías Usadas
 -Java Web- JSP
+
 -PrimeFaces 7.0
+
 -Apache Tomcat 8
+
 -CSS
 
 #
